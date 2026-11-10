@@ -2,6 +2,10 @@
 
 A notebook-based experiment for preprocessing a ground-penetrating radar (GPR) dataset, preparing data for anomaly detection and segmentation, training models, and exporting inference artifacts.
 
+## Recognition
+
+This project is patented. The repository documents the associated GPR image-processing and anomaly-analysis workflow; patent identifiers and legal documentation are intentionally not reproduced here.
+
 ## Workflow
 
 The notebook `gpr-analysis-system.ipynb` is the main entry point. It is written for a Kaggle-style environment and uses paths under `/kaggle/working`.
