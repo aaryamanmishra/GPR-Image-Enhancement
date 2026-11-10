@@ -45,3 +45,7 @@ The notebook also includes U-Net training logs, but this repository does not cur
 ## Scope
 
 This repository currently provides an experimental notebook workflow. A future cleanup could split preprocessing, training, evaluation, and inference into reusable scripts, add a pinned dependency file, and publish validated quantitative results.
+
+## License
+
+No `LICENSE` file is currently included in this repository. Until a license is added, the code does not have an explicit open-source reuse license. Review the original dataset terms separately before reusing or redistributing dataset material.
